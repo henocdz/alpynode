@@ -20,4 +20,4 @@ Based on alpine:3.8 with following dependencies installed:
 - aws-cli
 
 
-### Docker Hub: ![](https://hub.docker.com/r/henocdz/alpynode)
+Docker Hub: [https://hub.docker.com/r/henocdz/alpynode](https://hub.docker.com/r/henocdz/alpynode)
